@@ -6,7 +6,7 @@
     height: 100vh;
     background: url('https://mail.google.com/mail/u/0?ui=2&ik=9de6911f5b&attid=0.1&permmsgid=msg-a:r-7860947427092192280&th=1887f8fc9d46bac3&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8HvcFZynpx4R8hztXQChSxi7BR2Jm_Jt11nUVPhI0W8vgG_usDrwiCtMPgP_ffH1tJrqMFkq-NeDsANUWghFuGVOzSE6D0KVXSria3ZeK01C9CFlBPWw2Qkhs&disp=emb&realattid=1887f8fa889105b7c331');
     background-size: cover;
-    position: relative;
+    position: relative; 
 }
 
 .hero_title {
