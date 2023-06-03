@@ -3,7 +3,7 @@
 }
 
 .bgimage {
-    height: 100vh;
+    height: 190vh;
     background: url('https://mail.google.com/mail/u/0?ui=2&ik=9de6911f5b&attid=0.5&permmsgid=msg-a:r1748444882655467037&th=1887fb085248533a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8BjmjeGiTBPoyBHYjUhGSb-BUjEtsI81udf0RIGcrQssnPmdwFyHc4d-HxarkEO1_4SW1GsjsJkdME_aPKx4Qbjk-wDr3Yh2hUAC6N-0apWROT0AZzcMJWyTY&disp=emb&realattid=1887fb02d386280ba5d2');
     background-size: cover;
     position: relative;
@@ -23,5 +23,5 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(241, 239, 244);
+    color: rgb(91, 85, 98);
 }
